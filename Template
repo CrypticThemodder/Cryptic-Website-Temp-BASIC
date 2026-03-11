@@ -34,7 +34,7 @@
         * Use <span Style=""></span> to change text or more inside boxes headers ect...
         * Use id="" In any box or header to call a style example <header id="header">Header</header>
         * This will call the header.
-        /*
+        */
     </style>
 </head>
 <body>
@@ -43,6 +43,8 @@
     <h1 id="box">This is a web temp.<br>
         <span style="font-size: 20px;">This is a easily customizable and free website temp.</span>
     </h1> 
+    
+    <h4 style="text-align:center;">&copy Cryptic 2026 All rights reserved.</h4>
     <script>
         
     </script>
