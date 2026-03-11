@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cryptic Basic Web Temp</title>
+    <style>
+        body{
+            background-color: #696969; /*Change to your target color here (BACKGROUND)*/
+        }
+
+        #header{
+            background-color: #353535; /*Change to your target color here (HEADER)*/
+            color: white;
+            text-align: center;
+            width: 100%;
+            font-size: 60px;
+            border-radius: 20px;
+            padding: 20px;
+        }
+
+        #box{
+            background-color: #353535; /*Change to your target color here (BOXES)*/
+            color: white;
+            text-align: center;
+            width: 40%;
+            font-size: 30px;
+            border-radius: 20px;
+            padding: 20px;
+            /*margin-left: 400px; To move the box to the middle remove the * and / on both ends*/
+        }
+        
+        /*
+        * Use <span Style=""></span> to change text or more inside boxes headers ect...
+        * Use id="" In any box or header to call a style example <header id="header">Header</header>
+        * This will call the header.
+        /*
+    </style>
+</head>
+<body>
+    <header id="header">Cryptic web temp</header>
+
+    <h1 id="box">This is a web temp.<br>
+        <span style="font-size: 20px;">This is a easily customizable and free website temp.</span>
+    </h1> 
+    <script>
+        
+    </script>
+</body>
+</html>
