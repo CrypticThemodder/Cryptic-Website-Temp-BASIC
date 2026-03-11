@@ -25,7 +25,7 @@ https://codeshack.io/html-viewer/
 
 8. Change you wanted title color and box color by finding #header And/Or #box and change it the same way as step 7
 
-9. To add more boxes find the <body> tags and find the line called "<h1 id="box">" and copy that whole line of code and past it below the box then you have a new box
+9. To add more boxes find the <body> tags and find the line called "<h1 id="box"></h1>" and copy that whole line of code and past it below the box then you have a new box
 
 # Shorter Tut tl;dr
 download and extract files
